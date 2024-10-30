@@ -18,7 +18,7 @@ public class Ejemplo07 {
         double resultado = numerador / denominador;
         
         System.out.printf("El resultados es: %f\n", resultado);
-        
+        // %.2f\n , el 2 nos representa el número de decimales que queremos que se nos presente
         System.out.printf("El resultados es: %.2f\n", resultado);
               
     }
