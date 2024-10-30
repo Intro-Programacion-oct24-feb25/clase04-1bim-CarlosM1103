@@ -20,8 +20,10 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        // Asignación de respuesta a variable
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
+        
     }
     
 }
